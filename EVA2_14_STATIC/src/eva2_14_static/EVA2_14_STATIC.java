@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package eva2_14_static;
+package eva2_14_FINAL;
 
 /**
  *
  * @author HP1000
  */
-public class EVA2_14_STATIC {
+public class EVA2_14_FINAL {
 
     /**
      * @param args the command line arguments
